@@ -1,5 +1,5 @@
 The game of Mancala is played with pebbles and a board with indentations (depressions). 
-Each player has a side of the board. As you can see above, there are six depressions per side plus a larger depression at each end. Each depression is called a "pit". The larger depression at the right end of your side of the board is your "end" pit. 
+Each player has a side of the board. There are six depressions per side plus a larger depression at each end. Each depression is called a "pit". The larger depression at the right end of your side of the board is your "end" pit. 
 Each player begins with four pebbles in each regular pit, and an empty end pit. 
 On your turn, you choose any non-empty pit on your side of the board (not including the end pit), and pick up all of the pebbles from that pit and distribute them to the right: one pebble in the next pit to the right, another pebble into the next pit to the right after that; and so on until you've distributed all of them. You might manage to put a pebble into your end pit. If you go beyond your end pit, that's fine, you put pebbles into other people's pits. However, you always skip other people's end pits. 
 If you end your turn by putting a pebble into your own end pit (i.e., if it works out exactly), then you get another turn. There is no limit to how many consecutive turns you can get by this method. 
